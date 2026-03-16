@@ -14,5 +14,12 @@ Save the file as:
 deflogic.py
 
 # Run in terminal:
+apt update & upgrade
+winget install Python.Python
+choco install python
+
+pip3 install pygame
+
+git clone https://github.com/mdadnansani323dk/DefBrainLogic.git
 
 python3 deflogic.py
