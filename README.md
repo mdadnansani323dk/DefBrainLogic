@@ -1,16 +1,18 @@
 # DefBrainLogic
 # Game name: DEF LOGiC
-Asks perception questions 
-Includes logic puzzles  
-Gives a personality result at the end
-🎮 How to Run
+* Asks perception questions 
+* Includes logic puzzles  
+* Gives a personality result at the end
+
+
+# 🎮 How to Run
 
 Install Python
 
 Save the file as:
 
-def_logic.py
+deflogic.py
 
-Run in terminal:
+# Run in terminal:
 
 python3 deflogic.py
