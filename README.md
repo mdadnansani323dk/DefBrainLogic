@@ -15,7 +15,9 @@ deflogic.py
 
 # Run in terminal:
 apt update & upgrade
+
 winget install Python.Python
+
 choco install python
 
 pip3 install pygame
