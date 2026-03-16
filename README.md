@@ -22,6 +22,8 @@ choco install python
 
 pip3 install pygame
 
-git clone https://github.com/mdadnansani323dk/DefBrainLogic.git
+GitClones$ git clone https://github.com/mdadnansani323dk/DefBrainLogic
+
+cd DefBrainLogic
 
 python3 deflogic.py
